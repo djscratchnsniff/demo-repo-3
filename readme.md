@@ -6,4 +6,4 @@ add some changes
 
 adding some changes and will check via git diff
 
-changes for branch example
+im on the master branch
