@@ -16,3 +16,7 @@ this is trouble
 change on master
 
 changes during stashing lesson
+
+updating in state
+
+more changes after last add.
